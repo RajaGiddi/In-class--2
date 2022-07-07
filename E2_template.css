@@ -1,0 +1,29 @@
+body {
+	margin: 3em;
+}
+#boxes-container div {
+	width: 100px;
+	height: 50px;
+	border: 1px solid blue;
+}
+.red {
+	color: red;
+}
+.green {
+	color: green;
+}
+.blue {
+	color: blue;
+}
+.space {
+	margin-bottom: 3em;
+}
+#table-container table {
+	border-collapse: collapse;
+}
+#table-container td {
+	border: 1px solid black;
+	width: 25px;
+	height: 25px;
+	text-align: center;
+}
